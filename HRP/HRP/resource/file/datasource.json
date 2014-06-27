@@ -1,0 +1,45 @@
+{
+    "Title": "报销申请单",
+    "Specifiers": [
+                   {
+                   "Type":"GroupSpecifier",
+                   "Title": ""
+                   },
+                   {
+                   "Type": "TextFieldSpecifier",
+                   "Title": "提交人：",
+                   "Edit": "0"
+                   },
+                   {
+                   "Type": "MultiValueSpecifier",
+                   "Title": "申请人：",
+                   "SubTitle": ""
+                   },
+                   {
+                   "Type": "TextFieldSpecifier",
+                   "Title": "事由："
+                   },
+                   {
+                   "Type": "MultiValueSpecifier",
+                   "Title": "费用类型：",
+                   "SubTitle": "",
+                   "Edit": "0"
+                   },
+                   {
+                   "Type": "TextFieldSpecifier",
+                   "Title": "金额(元)："
+                   },
+                   {
+                   "Type": "TextFieldSpecifier",
+                   "Title": "备注："
+                   },
+                   {
+                   "Type":"GroupSpecifier",
+                   "Title": ""
+                   },
+                   {
+                   "Type": "ButtonSpecifier",
+                   "Title": "提交"
+                   }
+                   ]
+}
